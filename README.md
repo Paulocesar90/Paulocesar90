@@ -36,5 +36,5 @@ Sou desenvolvedor Java Spring. Possuo graduação em tecnologia em análise e de
   </br>
   <br>
   <a href="https://www.linkedin.com/in/paulo-cesar-pereira-da-costa-96a6521b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </br> />
+  </br> 
           
