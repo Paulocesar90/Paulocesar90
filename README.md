@@ -24,7 +24,10 @@ SpringDoc. Durante o período da graduação desenvolvi habilidades em desenvolv
   <img align="center" alt="Paulo-git" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img align="center" alt="Paulo-heroku" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
   <img align="center" alt="Paulo-mysql" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Paulo-postgresql" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img align="center" alt="Paulo-postgresql" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+   <img align="center" alt="Paulo-postgresql" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+   <img align="center" alt="Paulo-postgresql" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+   <img align="center" alt="Paulo-postgresql" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img align="center" alt="Paulo-vscode" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"
    </br> 
    </div>
