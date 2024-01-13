@@ -1,11 +1,7 @@
 # Paulo Cesar Pereira Da Costa
 
  <b>
-Sou desenvolvedor Full Stack possuo graduação em tecnologia em Análise e Desenvolvimento de Sistemas. Durante o período da graduação desenvolvi habilidades em desenvolvimento de aplicação em Java, C#, HTML5, CSS e JavaScript, Orientação a Objetos, Banco de dados e metodologias ágeis (Lean, Scrum, Kamban), Design Thinking. Realizei cursos de extensões na plataforma Curso em Vídeo com HTML5, CSS e JavaScript.
-Realizei o curso de Especialista em Spring Rest pela Algaworks, onde apliquei e utilizei o framework Spring Boot para desenvolvimento de serviços REST com a linguagem Java.Durante o curso apliquei com as tecnologias como Maven, JPA, Hibernate, Testes de integração, modelagem de projeções, pesquisas e relatórios, E-mails transacionais e Domain Events, CORS e consumo da API com JavaScript e Java, Cache de HTTP, Documentação da API com OpenAPI, Swagger UI e SpringFox, Discoverability e HATEOAS, Logging, Segurança com Spring Security e OAuth2, OAuth2 avançado com JWT e controle de acesso, Dockerizando a aplicação, Deploy em containers Docker na AWS, Documentação da API com SpringDoc, Spring Authorization Server, Spring Boot 3.
-Atuei por meio período na Sciagri – Smart Agriculture com administração de sistemas Cloud, AWS, Docker, React, Gerenciamento de Aplicações GIS (Geoserver, MapStore), Integração de Software com Java, Banco de Dados. 
-Trabalhei na como Desenvolvedor Java na empresa Ahr Brasil, na qual atuei no desenvolvimento de projetos realizados em Spring Boot e Angular para integração com o E-Social, integração de bancos de dados, criação de APIs e consultas dinâmicas com JPA, versionamento Git e implementação de uploads de arquivos CSV., relatórios com Apache POI e Jasper Reports.
-Atualmente, estou estudando na instituição o Educacional Rocketseat para aprimorar meus conhecimentos na biblioteca React e nos frameworks como Next.js e Vite.js.
+Sou graduado em Análise e Desenvolvimento de Sistemas. Ao longo de minha trajetória profissional, atuei em administração de sistemas em nuvem AWS, implementações com Docker e gerenciamento de aplicações GIS, incluindo Geoserver e MapStore. Participei ativamente de integrações de software utilizando Java com Spring Boot possuo experiência com bancos de dados Postgres, MySQL, MongoDB. Durante minha carreira profissional contribui com projetos desenvolvidos em Spring Boot, Angular, React, AWS focando especialmente na integrações e implementações.
  </b>
 <br>
 
