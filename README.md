@@ -13,6 +13,8 @@ Sou graduado em Análise e Desenvolvimento de Sistemas. Ao longo de minha trajet
   <img align="center" alt="Paulo-Java" height="60" width="70"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Paulo-Spring" height="60" width="70" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" />
    <img align="center" alt="Paulo-nest" height="60" width="70" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" />
+   <img align="center" alt="Paulo-node" height="60" width="70" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
+      <img align="center" alt="Paulo-vercel" height="60" width="70" src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg" />
   <img align="center" alt="Paulo-html5" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="Paulo-css3" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
    <img align="center" alt="Paulo-css3" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />
