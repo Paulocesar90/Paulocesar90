@@ -20,6 +20,8 @@ Sou graduado em Análise e Desenvolvimento de Sistemas. Ao longo de minha trajet
    <img align="center" alt="Paulo-css3" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />
   <img align="center" alt="Paulo-javascript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img align="center" alt="Paulo-linux" height="60" width="70" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
+<img align="center" alt="Paulo-prisma" height="60" width="70" src="https://github.com/steven2358/vectorlogos/blob/master/logos/prisma_logo_light.svg" />
+   <img align="center" alt="Paulo-typescript" height="60" width="70" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
     <img align="center" alt="Paulo-quarkus" height="60" width="70" src="https://github.com/cncf/landscape/blob/master/hosted_logos/quarkus.svg" />
 <img align="center" alt="Paulo-docker" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Paulo-intellij" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain-wordmark.svg" />
